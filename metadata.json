@@ -1,0 +1,6 @@
+{
+  "name": "eGFR 計算＆履歴管理",
+  "description": "年齢・性別・血清クレアチニン値からeGFR（推定糸球体濾過量）を自動計算し、経過をグラフで記録。PDFでの結果出力にも対応したレスポンシブツールです。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
